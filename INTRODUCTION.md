@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-Kumar-Gautam.
-- 👀 I’m interested in Software development.
+- 👀 I’m interested in Android development.
 - 🌱 I’m currently learning JAVA and plan to learn android development in future.
 - 💞️ I’m looking to collaborate on projects using JAVA either main or sideline.
 - 📫 You can reach me at adityakumgautam@gmail.com
