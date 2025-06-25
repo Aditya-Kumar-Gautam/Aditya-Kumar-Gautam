@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ZestyBites <br>I'm looking to collaborate on web project<br>I'm currently learning JAVA and web development
+I'm currently working on ZestyBite <br>I'm looking to collaborate on web project<br>I'm currently learning JAVA and web development
 
 
 # 💻 Tech Stack:
